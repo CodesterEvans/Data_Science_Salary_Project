@@ -1,0 +1,9 @@
+//*[@id="JDCol"]/div/article/div/div[1]/div/div/div[1]/div[2]/div[1]/div[4]/span
+
+use the above xpath and see how the scraper works. Cant access datframes from the console unless i use the other guy's code but  Iwant to experiment with mine.
+
+See if that x path above matches the other x path I already put into the Glassdoor Scraper 
+
+This xpath does open unlike the other 1 i used but it returns -1 for all salaries which I verified were there. meaning the xpath doesnt work.
+
+idea: Try the same x path but with .text or .text() at the end
